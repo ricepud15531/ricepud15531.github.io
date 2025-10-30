@@ -1,27 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>A note on Spinors ,Bott periodicity and dimension of Physics theories</title>
-    <url>/2025/10/30/Spinor-Bott-Dimension/</url>
-    <content><![CDATA[<p>在2025年春的超对称理论课的ppt，制作比较仓促因此很多typo和错误，不过是第一次尝试用latex做ppt，效果还不错。<br><a href="/files/Spinor-Bott-Dimension/旋量,Bott周期性和物理理论的维度 Spinors,Bott periodicity and Dimension of Physics theories PB22000007陈嘉莘.pdf">点此下载这个文件捏</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>A note on Batyrev&#39;s Mirror Construction</title>
     <url>/2025/10/30/Batyrev-Mirror-Construction/</url>
     <content><![CDATA[<p>在东南大学丘成桐中心的讨论班分享的有关Batyrev方法构造镜像对称性的note，比较简略而且可能有错误。<br><a href="/files/Batyrev-Mirror-Construction/Batyrev’s Construction of Mirror pairs.pdf">点此下载这个文件捏</a></p>
-]]></content>
-      <categories>
-        <category>理论物理</category>
-      </categories>
-      <tags>
-        <tag>镜像对称性</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2d N=(2,2)超对称与镜像对称性</title>
-    <url>/2025/10/30/2dn22%E8%B6%85%E5%AF%B9%E7%A7%B0%E4%B8%8E%E9%95%9C%E5%83%8F%E5%AF%B9%E7%A7%B0%E6%80%A7/</url>
-    <content><![CDATA[<p>2025春超对称理论大作业，仓促写完，基本抄书。<br><a href="/files/2dn22超对称与镜像对称性/2dN=(2,2)超对称与镜像对称性 PB22000007陈嘉莘.pdf">点此下载这个文件捏</a></p>
 ]]></content>
       <categories>
         <category>理论物理</category>
@@ -42,6 +24,37 @@
         <tag>镜像对称性</tag>
         <tag>拓扑弦</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>2d N=(2,2)超对称与镜像对称性</title>
+    <url>/2025/10/30/2dn22%E8%B6%85%E5%AF%B9%E7%A7%B0%E4%B8%8E%E9%95%9C%E5%83%8F%E5%AF%B9%E7%A7%B0%E6%80%A7/</url>
+    <content><![CDATA[<p>2025春超对称理论大作业，仓促写完，基本抄书。<br><a href="/files/2dn22超对称与镜像对称性/2dN=(2,2)超对称与镜像对称性 PB22000007陈嘉莘.pdf">点此下载这个文件捏</a></p>
+]]></content>
+      <categories>
+        <category>理论物理</category>
+      </categories>
+      <tags>
+        <tag>镜像对称性</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>一个关于镜像对称性的简介PPT</title>
+    <url>/2025/10/30/%E4%B8%80%E4%B8%AA%E5%85%B3%E4%BA%8E%E9%95%9C%E5%83%8F%E5%AF%B9%E7%A7%B0%E6%80%A7%E7%9A%84%E7%AE%80%E4%BB%8BPPT/</url>
+    <content><![CDATA[<p>毕业论文的开题答辩PPT，主题是镜像对称性的理论和应用，由于答辩时间很短所以PPT内容也不多。<br><a href="/files/一个关于镜像对称性的简介PPT/陈嘉莘开题答辩ppt1030.pdf">点此下载这个文件捏</a></p>
+]]></content>
+      <categories>
+        <category>理论物理</category>
+      </categories>
+      <tags>
+        <tag>镜像对称性</tag>
+        <tag>拓扑弦</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>A note on Spinors ,Bott periodicity and dimension of Physics theories</title>
+    <url>/2025/10/30/Spinor-Bott-Dimension/</url>
+    <content><![CDATA[<p>在2025年春的超对称理论课的ppt，制作比较仓促因此很多typo和错误，不过是第一次尝试用latex做ppt，效果还不错。<br><a href="/files/Spinor-Bott-Dimension/旋量,Bott周期性和物理理论的维度 Spinors,Bott periodicity and Dimension of Physics theories PB22000007陈嘉莘.pdf">点此下载这个文件捏</a></p>
+]]></content>
   </entry>
   <entry>
     <title>A Note on Perturbative Topological String</title>
@@ -66,19 +79,6 @@
       </categories>
       <tags>
         <tag>量子场论</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>一个关于镜像对称性的简介PPT</title>
-    <url>/2025/10/30/%E4%B8%80%E4%B8%AA%E5%85%B3%E4%BA%8E%E9%95%9C%E5%83%8F%E5%AF%B9%E7%A7%B0%E6%80%A7%E7%9A%84%E7%AE%80%E4%BB%8BPPT/</url>
-    <content><![CDATA[<p>毕业论文的开题答辩PPT，主题是镜像对称性的理论和应用，由于答辩时间很短所以PPT内容也不多。<br><a href="/files/一个关于镜像对称性的简介PPT/陈嘉莘开题答辩ppt1030.pdf">点此下载这个文件捏</a></p>
-]]></content>
-      <categories>
-        <category>理论物理</category>
-      </categories>
-      <tags>
-        <tag>拓扑弦</tag>
-        <tag>Mirror Symmetry</tag>
       </tags>
   </entry>
 </search>
