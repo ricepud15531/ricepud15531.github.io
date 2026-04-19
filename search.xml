@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>2d N=(2,2)超对称与镜像对称性</title>
-    <url>/2025/10/30/2dn22%E8%B6%85%E5%AF%B9%E7%A7%B0%E4%B8%8E%E9%95%9C%E5%83%8F%E5%AF%B9%E7%A7%B0%E6%80%A7/</url>
-    <content><![CDATA[<p>2025春超对称理论大作业，仓促写完，基本抄书。<br><a href="/files/2dn22超对称与镜像对称性/2dN=(2,2)超对称与镜像对称性 PB22000007陈嘉莘.pdf">点此下载这个文件捏</a></p>
-]]></content>
-      <categories>
-        <category>理论物理</category>
-      </categories>
-      <tags>
-        <tag>镜像对称性</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Note on Geometric Engineering and Topological Strings</title>
     <url>/2026/04/13/Note-on-Geometric-Engineering-and-Topological-Strings/</url>
     <content><![CDATA[<p>2026年春季在东南大学镜像对称性讨论班的ppt<br><a href="/files/Note-on-Geometric-Engineering-and-Topological-Strings/GETS.pdf">点此下载这个文件捏</a></p>
@@ -32,6 +20,52 @@
       <categories>
         <category>理论物理</category>
       </categories>
+  </entry>
+  <entry>
+    <title>2d N=(2,2)超对称与镜像对称性</title>
+    <url>/2025/10/30/2dn22%E8%B6%85%E5%AF%B9%E7%A7%B0%E4%B8%8E%E9%95%9C%E5%83%8F%E5%AF%B9%E7%A7%B0%E6%80%A7/</url>
+    <content><![CDATA[<p>2025春超对称理论大作业，仓促写完，基本抄书。<br><a href="/files/2dn22超对称与镜像对称性/2dN=(2,2)超对称与镜像对称性 PB22000007陈嘉莘.pdf">点此下载这个文件捏</a></p>
+]]></content>
+      <categories>
+        <category>理论物理</category>
+      </categories>
+      <tags>
+        <tag>镜像对称性</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>A Note on Perturbative Topological String</title>
+    <url>/2025/10/30/Note-on-Perturbative-Topological-String/</url>
+    <content><![CDATA[<p>在学习Marino的Lecture时的Note，主要是微扰部分，没有非微扰部分。完成时间大概是2024年12月。<br><a href="/files/Note-on-Perturbative-Topological-String/perturbative topological string.pdf">点此下载这个文件捏</a></p>
+]]></content>
+      <categories>
+        <category>理论物理</category>
+      </categories>
+      <tags>
+        <tag>镜像对称性</tag>
+        <tag>拓扑弦</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Note on Holomorphic Anomaly Equation</title>
+    <url>/2025/11/28/HAE/</url>
+    <content><![CDATA[<p>一个关于Holomorphic Anomaly Equation的介绍<br><a href="/files/HAE/Note on Holomorphic Anomaly Equation.pdf">点此下载这个文件捏</a></p>
+]]></content>
+      <categories>
+        <category>理论物理</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>A brief note on QFT compactification</title>
+    <url>/2025/10/30/compactification-note/</url>
+    <content><![CDATA[<p>2025春量子场论的大作业，写的也十分简陋。由于一直对紧致化比较希望学习因此写这个主题，但似乎写完也还是没有什么了解。之后还是得看一下相关的书系统学一下。<br><a href="/files/compactification-note/Classical and Quantum aspects of Field theory compactification.pdf">点此下载这个文件捏</a></p>
+]]></content>
+      <categories>
+        <category>理论物理</category>
+      </categories>
+      <tags>
+        <tag>量子场论</tag>
+      </tags>
   </entry>
   <entry>
     <title>A note on Batyrev&#39;s Mirror Construction</title>
@@ -59,49 +93,15 @@
       </tags>
   </entry>
   <entry>
-    <title>Note on Holomorphic Anomaly Equation</title>
-    <url>/2025/11/28/HAE/</url>
-    <content><![CDATA[<p>一个关于Holomorphic Anomaly Equation的介绍<br><a href="/files/HAE/Note on Holomorphic Anomaly Equation.pdf">点此下载这个文件捏</a></p>
-]]></content>
-      <categories>
-        <category>理论物理</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>A Note on Perturbative Topological String</title>
-    <url>/2025/10/30/Note-on-Perturbative-Topological-String/</url>
-    <content><![CDATA[<p>在学习Marino的Lecture时的Note，主要是微扰部分，没有非微扰部分。完成时间大概是2024年12月。<br><a href="/files/Note-on-Perturbative-Topological-String/perturbative topological string.pdf">点此下载这个文件捏</a></p>
-]]></content>
-      <categories>
-        <category>理论物理</category>
-      </categories>
-      <tags>
-        <tag>镜像对称性</tag>
-        <tag>拓扑弦</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>A brief note on QFT compactification</title>
-    <url>/2025/10/30/compactification-note/</url>
-    <content><![CDATA[<p>2025春量子场论的大作业，写的也十分简陋。由于一直对紧致化比较希望学习因此写这个主题，但似乎写完也还是没有什么了解。之后还是得看一下相关的书系统学一下。<br><a href="/files/compactification-note/Classical and Quantum aspects of Field theory compactification.pdf">点此下载这个文件捏</a></p>
-]]></content>
-      <categories>
-        <category>理论物理</category>
-      </categories>
-      <tags>
-        <tag>量子场论</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>A note on Spinors ,Bott periodicity and dimension of Physics theories</title>
     <url>/2025/10/30/Spinor-Bott-Dimension/</url>
     <content><![CDATA[<p>在2025年春的超对称理论课的ppt，制作比较仓促因此很多typo和错误，不过是第一次尝试用latex做ppt，效果还不错。<br><a href="/files/Spinor-Bott-Dimension/旋量,Bott周期性和物理理论的维度 Spinors,Bott periodicity and Dimension of Physics theories PB22000007陈嘉莘.pdf">点此下载这个文件捏</a></p>
 ]]></content>
   </entry>
   <entry>
-    <title>[持续更新]毕业论文稿</title>
-    <url>/2025/10/30/%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0-%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87%E7%A8%BF/</url>
-    <content><![CDATA[<p>毕业论文稿，有关镜像对称性的一些笔记，错误可能较多。目前尚未写完，会持续更新此处文件。<br><a href="/files/持续更新-毕业论文稿/main.pdf">点此下载这个文件捏</a></p>
+    <title>毕业论文稿</title>
+    <url>/2026/04/16/%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0-%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87%E7%A8%BF/</url>
+    <content><![CDATA[<p>毕业论文稿，有关镜像对称性的一些笔记，错误可能较多。<br><a href="/files/持续更新-毕业论文稿/main.pdf">点此下载这个文件捏</a></p>
 ]]></content>
       <categories>
         <category>理论物理</category>
