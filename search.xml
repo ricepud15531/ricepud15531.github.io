@@ -1,16 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Brane_Tiling笔记</title>
-    <url>/2026/02/12/Brane-Tiling%E7%AC%94%E8%AE%B0/</url>
-    <content><![CDATA[<p>一个关于Brane Tiling的笔记，照抄Yamazaki<br><a href="/files/Brane-Tiling笔记/Brane Tiling1.pdf">点此下载这个文件捏</a></p>
-]]></content>
-      <categories>
-        <category>学术</category>
-        <category>拓扑弦理论</category>
-      </categories>
-  </entry>
-  <entry>
     <title>2d N=(2,2)超对称与镜像对称性</title>
     <url>/2025/10/30/2dn22%E8%B6%85%E5%AF%B9%E7%A7%B0%E4%B8%8E%E9%95%9C%E5%83%8F%E5%AF%B9%E7%A7%B0%E6%80%A7/</url>
     <content><![CDATA[<p>2025春超对称理论大作业，仓促写完，基本抄书。<br><a href="/files/2dn22超对称与镜像对称性/2dN=(2,2)超对称与镜像对称性 PB22000007陈嘉莘.pdf">点此下载这个文件捏</a></p>
@@ -18,16 +8,6 @@
       <categories>
         <category>学术</category>
         <category>超对称理论</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>Note on Geometric Engineering and Topological Strings</title>
-    <url>/2026/04/13/Note-on-Geometric-Engineering-and-Topological-Strings/</url>
-    <content><![CDATA[<p>2026年春季在东南大学镜像对称性讨论班的ppt<br><a href="/files/Note-on-Geometric-Engineering-and-Topological-Strings/GETS.pdf">点此下载这个文件捏</a></p>
-]]></content>
-      <categories>
-        <category>学术</category>
-        <category>拓扑弦理论</category>
       </categories>
   </entry>
   <entry>
@@ -51,9 +31,19 @@
       </categories>
   </entry>
   <entry>
-    <title>A Note on Perturbative Topological String</title>
-    <url>/2025/10/30/Note-on-Perturbative-Topological-String/</url>
-    <content><![CDATA[<p>在学习Marino的Lecture时的Note，主要是微扰部分，没有非微扰部分。完成时间大概是2024年12月。<br><a href="/files/Note-on-Perturbative-Topological-String/perturbative topological string.pdf">点此下载这个文件捏</a></p>
+    <title>Brane_Tiling笔记</title>
+    <url>/2026/02/12/Brane-Tiling%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<p>一个关于Brane Tiling的笔记，照抄Yamazaki<br><a href="/files/Brane-Tiling笔记/Brane Tiling1.pdf">点此下载这个文件捏</a></p>
+]]></content>
+      <categories>
+        <category>学术</category>
+        <category>拓扑弦理论</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>Note on Geometric Engineering and Topological Strings</title>
+    <url>/2026/04/13/Note-on-Geometric-Engineering-and-Topological-Strings/</url>
+    <content><![CDATA[<p>2026年春季在东南大学镜像对称性讨论班的ppt<br><a href="/files/Note-on-Geometric-Engineering-and-Topological-Strings/GETS.pdf">点此下载这个文件捏</a></p>
 ]]></content>
       <categories>
         <category>学术</category>
@@ -83,13 +73,33 @@
       </categories>
   </entry>
   <entry>
-    <title>A brief note on QFT compactification</title>
-    <url>/2025/10/30/compactification-note/</url>
-    <content><![CDATA[<p>2025春量子场论的大作业，写的也十分简陋。由于一直对紧致化比较希望学习因此写这个主题，但似乎写完也还是没有什么了解。之后还是得看一下相关的书系统学一下。<br><a href="/files/compactification-note/Classical and Quantum aspects of Field theory compactification.pdf">点此下载这个文件捏</a></p>
+    <title>一个关于镜像对称性的简介PPT</title>
+    <url>/2025/10/30/%E4%B8%80%E4%B8%AA%E5%85%B3%E4%BA%8E%E9%95%9C%E5%83%8F%E5%AF%B9%E7%A7%B0%E6%80%A7%E7%9A%84%E7%AE%80%E4%BB%8BPPT/</url>
+    <content><![CDATA[<p>毕业论文的开题答辩PPT，主题是镜像对称性的理论和应用，由于答辩时间很短所以PPT内容也不多。<br><a href="/files/一个关于镜像对称性的简介PPT/陈嘉莘开题答辩ppt1031.pdf">点此下载这个文件捏</a></p>
 ]]></content>
       <categories>
         <category>学术</category>
-        <category>量子场论</category>
+        <category>镜像对称性</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>A Note on Perturbative Topological String</title>
+    <url>/2025/10/30/Note-on-Perturbative-Topological-String/</url>
+    <content><![CDATA[<p>在学习Marino的Lecture时的Note，主要是微扰部分，没有非微扰部分。完成时间大概是2024年12月。<br><a href="/files/Note-on-Perturbative-Topological-String/perturbative topological string.pdf">点此下载这个文件捏</a></p>
+]]></content>
+      <categories>
+        <category>学术</category>
+        <category>拓扑弦理论</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>A short note on Class S theory</title>
+    <url>/2026/05/20/class-S-theory/</url>
+    <content><![CDATA[<p>2026年春季在东南大学讨论班的note，抄了2006.14025这篇review<br><a href="/files/class-S-theory/Note on Class S theory.pdf">点此下载这个文件捏</a></p>
+]]></content>
+      <categories>
+        <category>学术</category>
+        <category>超对称理论</category>
       </categories>
   </entry>
   <entry>
@@ -107,23 +117,13 @@
       </categories>
   </entry>
   <entry>
-    <title>A short note on Class S theory</title>
-    <url>/2026/05/20/class-S-theory/</url>
-    <content><![CDATA[<p>2026年春季在东南大学讨论班的note，抄了2006.14025这篇review<br><a href="/files/class-S-theory/Note on Class S theory.pdf">点此下载这个文件捏</a></p>
+    <title>A brief note on QFT compactification</title>
+    <url>/2025/10/30/compactification-note/</url>
+    <content><![CDATA[<p>2025春量子场论的大作业，写的也十分简陋。由于一直对紧致化比较希望学习因此写这个主题，但似乎写完也还是没有什么了解。之后还是得看一下相关的书系统学一下。<br><a href="/files/compactification-note/Classical and Quantum aspects of Field theory compactification.pdf">点此下载这个文件捏</a></p>
 ]]></content>
       <categories>
         <category>学术</category>
-        <category>超对称理论</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>一个关于镜像对称性的简介PPT</title>
-    <url>/2025/10/30/%E4%B8%80%E4%B8%AA%E5%85%B3%E4%BA%8E%E9%95%9C%E5%83%8F%E5%AF%B9%E7%A7%B0%E6%80%A7%E7%9A%84%E7%AE%80%E4%BB%8BPPT/</url>
-    <content><![CDATA[<p>毕业论文的开题答辩PPT，主题是镜像对称性的理论和应用，由于答辩时间很短所以PPT内容也不多。<br><a href="/files/一个关于镜像对称性的简介PPT/陈嘉莘开题答辩ppt1031.pdf">点此下载这个文件捏</a></p>
-]]></content>
-      <categories>
-        <category>学术</category>
-        <category>镜像对称性</category>
+        <category>量子场论</category>
       </categories>
   </entry>
   <entry>
