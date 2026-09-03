@@ -11,16 +11,6 @@
       </categories>
   </entry>
   <entry>
-    <title>A note on Batyrev&#39;s Mirror Construction</title>
-    <url>/2025/10/30/Batyrev-Mirror-Construction/</url>
-    <content><![CDATA[<p>在东南大学丘成桐中心的讨论班分享的有关Batyrev方法构造镜像对称性的note，比较简略而且可能有错误。<br><a href="/files/Batyrev-Mirror-Construction/Batyrev’s Construction of Mirror pairs.pdf">点此下载这个文件捏</a></p>
-]]></content>
-      <categories>
-        <category>学术</category>
-        <category>镜像对称性</category>
-      </categories>
-  </entry>
-  <entry>
     <title>Brane_Tiling笔记</title>
     <url>/2026/02/12/Brane-Tiling%E7%AC%94%E8%AE%B0/</url>
     <content><![CDATA[<p>一个关于Brane Tiling的笔记，照抄Yamazaki<br><a href="/files/Brane-Tiling笔记/Brane Tiling1.pdf">点此下载这个文件捏</a></p>
@@ -41,6 +31,26 @@
       </categories>
   </entry>
   <entry>
+    <title>A note on Batyrev&#39;s Mirror Construction</title>
+    <url>/2025/10/30/Batyrev-Mirror-Construction/</url>
+    <content><![CDATA[<p>在东南大学丘成桐中心的讨论班分享的有关Batyrev方法构造镜像对称性的note，比较简略而且可能有错误。<br><a href="/files/Batyrev-Mirror-Construction/Batyrev’s Construction of Mirror pairs.pdf">点此下载这个文件捏</a></p>
+]]></content>
+      <categories>
+        <category>学术</category>
+        <category>镜像对称性</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>Note on Geometric Engineering and Topological Strings</title>
+    <url>/2026/04/13/Note-on-Geometric-Engineering-and-Topological-Strings/</url>
+    <content><![CDATA[<p>2026年春季在东南大学镜像对称性讨论班的ppt<br><a href="/files/Note-on-Geometric-Engineering-and-Topological-Strings/GETS.pdf">点此下载这个文件捏</a></p>
+]]></content>
+      <categories>
+        <category>学术</category>
+        <category>拓扑弦理论</category>
+      </categories>
+  </entry>
+  <entry>
     <title>A note on Spinors ,Bott periodicity and dimension of Physics theories</title>
     <url>/2025/10/30/Spinor-Bott-Dimension/</url>
     <content><![CDATA[<p>在2025年春的超对称理论课的ppt，制作比较仓促因此很多typo和错误，不过是第一次尝试用latex做ppt，效果还不错。<br><a href="/files/Spinor-Bott-Dimension/旋量,Bott周期性和物理理论的维度 Spinors,Bott periodicity and Dimension of Physics theories PB22000007陈嘉莘.pdf">点此下载这个文件捏</a></p>
@@ -48,6 +58,16 @@
       <categories>
         <category>学术</category>
         <category>超对称理论</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>A Note on Perturbative Topological String</title>
+    <url>/2025/10/30/Note-on-Perturbative-Topological-String/</url>
+    <content><![CDATA[<p>在学习Marino的Lecture时的Note，主要是微扰部分，没有非微扰部分。完成时间大概是2024年12月。<br><a href="/files/Note-on-Perturbative-Topological-String/perturbative topological string.pdf">点此下载这个文件捏</a></p>
+]]></content>
+      <categories>
+        <category>学术</category>
+        <category>拓扑弦理论</category>
       </categories>
   </entry>
   <entry>
@@ -63,23 +83,13 @@
       </categories>
   </entry>
   <entry>
-    <title>A Note on Perturbative Topological String</title>
-    <url>/2025/10/30/Note-on-Perturbative-Topological-String/</url>
-    <content><![CDATA[<p>在学习Marino的Lecture时的Note，主要是微扰部分，没有非微扰部分。完成时间大概是2024年12月。<br><a href="/files/Note-on-Perturbative-Topological-String/perturbative topological string.pdf">点此下载这个文件捏</a></p>
+    <title>A brief note on QFT compactification</title>
+    <url>/2025/10/30/compactification-note/</url>
+    <content><![CDATA[<p>2025春量子场论的大作业，写的也十分简陋。由于一直对紧致化比较希望学习因此写这个主题，但似乎写完也还是没有什么了解。之后还是得看一下相关的书系统学一下。<br><a href="/files/compactification-note/Classical and Quantum aspects of Field theory compactification.pdf">点此下载这个文件捏</a></p>
 ]]></content>
       <categories>
         <category>学术</category>
-        <category>拓扑弦理论</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>Note on Geometric Engineering and Topological Strings</title>
-    <url>/2026/04/13/Note-on-Geometric-Engineering-and-Topological-Strings/</url>
-    <content><![CDATA[<p>2026年春季在东南大学镜像对称性讨论班的ppt<br><a href="/files/Note-on-Geometric-Engineering-and-Topological-Strings/GETS.pdf">点此下载这个文件捏</a></p>
-]]></content>
-      <categories>
-        <category>学术</category>
-        <category>拓扑弦理论</category>
+        <category>量子场论</category>
       </categories>
   </entry>
   <entry>
@@ -93,6 +103,16 @@
       </categories>
   </entry>
   <entry>
+    <title>一个关于镜像对称性的简介PPT</title>
+    <url>/2025/10/30/%E4%B8%80%E4%B8%AA%E5%85%B3%E4%BA%8E%E9%95%9C%E5%83%8F%E5%AF%B9%E7%A7%B0%E6%80%A7%E7%9A%84%E7%AE%80%E4%BB%8BPPT/</url>
+    <content><![CDATA[<p>毕业论文的开题答辩PPT，主题是镜像对称性的理论和应用，由于答辩时间很短所以PPT内容也不多。<br><a href="/files/一个关于镜像对称性的简介PPT/陈嘉莘开题答辩ppt1031.pdf">点此下载这个文件捏</a></p>
+]]></content>
+      <categories>
+        <category>学术</category>
+        <category>镜像对称性</category>
+      </categories>
+  </entry>
+  <entry>
     <title>三篇ABJM有关文章的阅读笔记</title>
     <url>/2026/09/04/%E4%B8%89%E7%AF%87ABJM%E6%9C%89%E5%85%B3%E6%96%87%E7%AB%A0%E7%9A%84%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/</url>
     <content><![CDATA[<p>读了三篇ABJM相关的文章。1511.04085这一篇计算的是large N twisted Index，并且成功匹配了一类系统的黑洞熵。2607.07255这一篇从M theory出发推导了ABJM grand potential中的cubic和linear term的起源。1211.1251这一篇是最早研究ABJM Instanton的文章，得到了有关WS和M2 Instanton的初步结论。</p>
@@ -100,6 +120,25 @@
 ]]></content>
       <categories>
         <category>学术</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>之后尝试更新日常笔记</title>
+    <url>/2026/09/01/%E5%B0%9D%E8%AF%95%E6%9B%B4%E6%96%B0%E6%97%A5%E5%B8%B8%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<p>之后尝试发一点日常看文章或者上课记的笔记，可能会凑两三个发一次，每个都是非常短的。一方面是存个档，一方面是监督自己经常记点笔记。<br><a href="/files/尝试更新日常笔记/2608.04107.md" download>2608.04107.md</a><br><a href="/files/尝试更新日常笔记/0905.3415.md" download>0905.3415.md</a><br>这两篇一个是Aganagic之前有关M2膜的Chern-Simon matter从D2膜来的推导，一篇是Hosseini新的一篇有关twsited superpotential的精确表达式的文章，都读了一下并且记了大概内容。</p>
+]]></content>
+      <categories>
+        <category>学术</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>毕业论文稿</title>
+    <url>/2026/04/16/%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0-%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87%E7%A8%BF/</url>
+    <content><![CDATA[<p>毕业论文稿，有关镜像对称性的一些笔记，错误可能较多。<br><a href="/files/持续更新-毕业论文稿/main.pdf">点此下载这个文件捏</a></p>
+]]></content>
+      <categories>
+        <category>学术</category>
+        <category>镜像对称性</category>
       </categories>
   </entry>
   <entry>
@@ -114,45 +153,6 @@
 ]]></content>
       <categories>
         <category>其他</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>之后尝试更新日常笔记</title>
-    <url>/2026/09/01/%E5%B0%9D%E8%AF%95%E6%9B%B4%E6%96%B0%E6%97%A5%E5%B8%B8%E7%AC%94%E8%AE%B0/</url>
-    <content><![CDATA[<p>之后尝试发一点日常看文章或者上课记的笔记，可能会凑两三个发一次，每个都是非常短的。一方面是存个档，一方面是监督自己经常记点笔记。<br><a href="/files/尝试更新日常笔记/2608.04107.md" download>2608.04107.md</a><br><a href="/files/尝试更新日常笔记/0905.3415.md" download>0905.3415.md</a><br>这两篇一个是Aganagic之前有关M2膜的Chern-Simon matter从D2膜来的推导，一篇是Hosseini新的一篇有关twsited superpotential的精确表达式的文章，都读了一下并且记了大概内容。</p>
-]]></content>
-      <categories>
-        <category>学术</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>A brief note on QFT compactification</title>
-    <url>/2025/10/30/compactification-note/</url>
-    <content><![CDATA[<p>2025春量子场论的大作业，写的也十分简陋。由于一直对紧致化比较希望学习因此写这个主题，但似乎写完也还是没有什么了解。之后还是得看一下相关的书系统学一下。<br><a href="/files/compactification-note/Classical and Quantum aspects of Field theory compactification.pdf">点此下载这个文件捏</a></p>
-]]></content>
-      <categories>
-        <category>学术</category>
-        <category>量子场论</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>毕业论文稿</title>
-    <url>/2026/04/16/%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0-%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87%E7%A8%BF/</url>
-    <content><![CDATA[<p>毕业论文稿，有关镜像对称性的一些笔记，错误可能较多。<br><a href="/files/持续更新-毕业论文稿/main.pdf">点此下载这个文件捏</a></p>
-]]></content>
-      <categories>
-        <category>学术</category>
-        <category>镜像对称性</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>一个关于镜像对称性的简介PPT</title>
-    <url>/2025/10/30/%E4%B8%80%E4%B8%AA%E5%85%B3%E4%BA%8E%E9%95%9C%E5%83%8F%E5%AF%B9%E7%A7%B0%E6%80%A7%E7%9A%84%E7%AE%80%E4%BB%8BPPT/</url>
-    <content><![CDATA[<p>毕业论文的开题答辩PPT，主题是镜像对称性的理论和应用，由于答辩时间很短所以PPT内容也不多。<br><a href="/files/一个关于镜像对称性的简介PPT/陈嘉莘开题答辩ppt1031.pdf">点此下载这个文件捏</a></p>
-]]></content>
-      <categories>
-        <category>学术</category>
-        <category>镜像对称性</category>
       </categories>
   </entry>
 </search>
