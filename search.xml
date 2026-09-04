@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>A note on Batyrev&#39;s Mirror Construction</title>
+    <url>/2025/10/30/Batyrev-Mirror-Construction/</url>
+    <content><![CDATA[<p>在东南大学丘成桐中心的讨论班分享的有关Batyrev方法构造镜像对称性的note，比较简略而且可能有错误。<br><a href="/files/Batyrev-Mirror-Construction/Batyrev’s Construction of Mirror pairs.pdf">点此下载这个文件捏</a></p>
+]]></content>
+      <categories>
+        <category>学术</category>
+        <category>镜像对称性</category>
+      </categories>
+  </entry>
+  <entry>
     <title>2d N=(2,2)超对称与镜像对称性</title>
     <url>/2025/10/30/2dn22%E8%B6%85%E5%AF%B9%E7%A7%B0%E4%B8%8E%E9%95%9C%E5%83%8F%E5%AF%B9%E7%A7%B0%E6%80%A7/</url>
     <content><![CDATA[<p>2025春超对称理论大作业，仓促写完，基本抄书。<br><a href="/files/2dn22超对称与镜像对称性/2dN=(2,2)超对称与镜像对称性 PB22000007陈嘉莘.pdf">点此下载这个文件捏</a></p>
@@ -31,16 +41,6 @@
       </categories>
   </entry>
   <entry>
-    <title>A note on Batyrev&#39;s Mirror Construction</title>
-    <url>/2025/10/30/Batyrev-Mirror-Construction/</url>
-    <content><![CDATA[<p>在东南大学丘成桐中心的讨论班分享的有关Batyrev方法构造镜像对称性的note，比较简略而且可能有错误。<br><a href="/files/Batyrev-Mirror-Construction/Batyrev’s Construction of Mirror pairs.pdf">点此下载这个文件捏</a></p>
-]]></content>
-      <categories>
-        <category>学术</category>
-        <category>镜像对称性</category>
-      </categories>
-  </entry>
-  <entry>
     <title>Note on Geometric Engineering and Topological Strings</title>
     <url>/2026/04/13/Note-on-Geometric-Engineering-and-Topological-Strings/</url>
     <content><![CDATA[<p>2026年春季在东南大学镜像对称性讨论班的ppt<br><a href="/files/Note-on-Geometric-Engineering-and-Topological-Strings/GETS.pdf">点此下载这个文件捏</a></p>
@@ -61,16 +61,6 @@
       </categories>
   </entry>
   <entry>
-    <title>A Note on Perturbative Topological String</title>
-    <url>/2025/10/30/Note-on-Perturbative-Topological-String/</url>
-    <content><![CDATA[<p>在学习Marino的Lecture时的Note，主要是微扰部分，没有非微扰部分。完成时间大概是2024年12月。<br><a href="/files/Note-on-Perturbative-Topological-String/perturbative topological string.pdf">点此下载这个文件捏</a></p>
-]]></content>
-      <categories>
-        <category>学术</category>
-        <category>拓扑弦理论</category>
-      </categories>
-  </entry>
-  <entry>
     <title>Handbook of Quantum Gravity全书中文机翻</title>
     <url>/2026/05/20/Translation-Handbook-QG/</url>
     <content><![CDATA[<p>Handbook of Quantum Gravity这本书卷帙浩繁，比较适合闲暇时候学习一些不了解的方向。我个人感觉读中文比英语略快一些，因此用ai做了这个中文机翻（同时保留英文以对照）。美中不足的一点是忘记告诉ai不翻译人名了。专有名词我感觉大部分翻译没有问题。大概是可以凑合看的水平。</p>
@@ -83,13 +73,13 @@
       </categories>
   </entry>
   <entry>
-    <title>A brief note on QFT compactification</title>
-    <url>/2025/10/30/compactification-note/</url>
-    <content><![CDATA[<p>2025春量子场论的大作业，写的也十分简陋。由于一直对紧致化比较希望学习因此写这个主题，但似乎写完也还是没有什么了解。之后还是得看一下相关的书系统学一下。<br><a href="/files/compactification-note/Classical and Quantum aspects of Field theory compactification.pdf">点此下载这个文件捏</a></p>
+    <title>A Note on Perturbative Topological String</title>
+    <url>/2025/10/30/Note-on-Perturbative-Topological-String/</url>
+    <content><![CDATA[<p>在学习Marino的Lecture时的Note，主要是微扰部分，没有非微扰部分。完成时间大概是2024年12月。<br><a href="/files/Note-on-Perturbative-Topological-String/perturbative topological string.pdf">点此下载这个文件捏</a></p>
 ]]></content>
       <categories>
         <category>学术</category>
-        <category>量子场论</category>
+        <category>拓扑弦理论</category>
       </categories>
   </entry>
   <entry>
@@ -103,13 +93,13 @@
       </categories>
   </entry>
   <entry>
-    <title>一个关于镜像对称性的简介PPT</title>
-    <url>/2025/10/30/%E4%B8%80%E4%B8%AA%E5%85%B3%E4%BA%8E%E9%95%9C%E5%83%8F%E5%AF%B9%E7%A7%B0%E6%80%A7%E7%9A%84%E7%AE%80%E4%BB%8BPPT/</url>
-    <content><![CDATA[<p>毕业论文的开题答辩PPT，主题是镜像对称性的理论和应用，由于答辩时间很短所以PPT内容也不多。<br><a href="/files/一个关于镜像对称性的简介PPT/陈嘉莘开题答辩ppt1031.pdf">点此下载这个文件捏</a></p>
+    <title>A brief note on QFT compactification</title>
+    <url>/2025/10/30/compactification-note/</url>
+    <content><![CDATA[<p>2025春量子场论的大作业，写的也十分简陋。由于一直对紧致化比较希望学习因此写这个主题，但似乎写完也还是没有什么了解。之后还是得看一下相关的书系统学一下。<br><a href="/files/compactification-note/Classical and Quantum aspects of Field theory compactification.pdf">点此下载这个文件捏</a></p>
 ]]></content>
       <categories>
         <category>学术</category>
-        <category>镜像对称性</category>
+        <category>量子场论</category>
       </categories>
   </entry>
   <entry>
@@ -120,6 +110,30 @@
 ]]></content>
       <categories>
         <category>学术</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>一个关于镜像对称性的简介PPT</title>
+    <url>/2025/10/30/%E4%B8%80%E4%B8%AA%E5%85%B3%E4%BA%8E%E9%95%9C%E5%83%8F%E5%AF%B9%E7%A7%B0%E6%80%A7%E7%9A%84%E7%AE%80%E4%BB%8BPPT/</url>
+    <content><![CDATA[<p>毕业论文的开题答辩PPT，主题是镜像对称性的理论和应用，由于答辩时间很短所以PPT内容也不多。<br><a href="/files/一个关于镜像对称性的简介PPT/陈嘉莘开题答辩ppt1031.pdf">点此下载这个文件捏</a></p>
+]]></content>
+      <categories>
+        <category>学术</category>
+        <category>镜像对称性</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>为什么不应该做Vibe Research？</title>
+    <url>/2026/08/26/%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E5%BA%94%E8%AF%A5%E5%81%9AVibe%20Research%EF%BC%9F/</url>
+    <content><![CDATA[<p>3月23号，随着Schwartz的vibe physics放上anthropic的网站，agent工具第一次征服了学术流程。四到六月的Opus，GPT5，Fable，DSv4多个模型的发表又极大拓展了agent的能力。我几乎整个暑假都在尝试Vibe Research，结果是暑假没有任何成果不说，最终还愈发焦虑非常难受，感到无比虚无和对自己人生的质疑。直到今天我才意识到Vibe Research的危害，以及为什么我们不应该做Vibe Research。下面我会先说目前Vibe Research的缺陷和短板，再给出我们不该做Vibe Research的理由。</p>
+<p>Vibe Research顾名思义是仿照Vibe Coding来造的词，即某种许愿式、鼓励式依赖AI来完成工作的方法。但是，从源头上Coding和Research就有本质不同，软件开发是系统工程，一个工程师难以精通所有部分的技术；Coding几乎所有的价值都集中在成品软件或代码上，而实现手段只是必经的痛苦之路，因此用一个知识无比全面的工程师来黑盒完成所需的软件或代码是极其自然的想法，这就使得Vibe Coding是我们这个时代最有价值的事情之一。然而，同样的事情总会发生两次，第一次未必是悲剧，但第二次或许必然是闹剧。科研工作往往有一条连贯的主线，即便作者无法掌握所有细节，作者对主线也必须完全把握；科研的大量意义也存在于过程中，这些过程可能完全或大部分都不会在最终结论和论文里面体现，但这些过程依然作为难以被简单报告的成果而存在着。Vibe Research尝试在人类较少或几乎不干预的情况下让agent走出从出发到结果的主线，这就导致除了agent的上下文之外，世界上没有第二个知道全部细节和主线发展的研究者。考虑到上下文的快速衰减，导致即便到达了结果，整个研究流程也几乎难以完全回顾，这也是agent结果可读性较差的主要原因。</p>
+<p>Agent另一个特点是价值分析和成本收益分析能力很低，而且不像人类研究者可以在对一个项目较短时间的学习中获得这样的判断能力，这种低判断能力几乎贯穿agent工作的始终。导致agent经常进行大量对最终结果无实际推动的尝试，平白消耗本就不富余的上下文资源。这就导致所谓vibe research其实是agent这只无头苍蝇的几乎无计划的游走，尽管他确实可能可以取得一些结果，其中一部分甚至有相当的价值，但这样的结果无法被包括agent在内的任何人所真正理解，其研究过程也是几乎无参考性的。</p>
+<p>所以为什么我们不该做Vibe Research？我需要明确我所说的Vibe Research的概念，我特指的是只提供初始参考信息，并试图让agent在没有或较少人类指导的情况下到达希望的结论的这种行为。其实Schwartz最早所说的‘vibe research’并不满足这样的定义，他的研究是由人类进行高度参与的。但随后的一系列‘突破性’vibe成果让目前vibe research越来越接近上述许愿式定义，比如Jacobi猜想反例与S^6复结构例子，都是在几乎无人类干预的情况下得到的。</p>
+<p>Vibe Research最大的危害是难以让人真正了解过程中所需要的技术，这一方面导致形成不了在研究过程中判断方向的能力，一方面导致完全追求结果而失去了感受到科研乐趣的能力。前者导致的只是无法理解‘自己所做’的内容，做完一个项目或许知道了过程是怎么样的，但实际并没有提升自己操作这个过程的能力与重复类似过程的能力。后者完全摧毁了正常的学术兴趣观，因为进行研究的大量奖励本应集中在过程中的若干较小突破上，进行学习的大量奖励也在于逐步理解而非最终的学会。片面地追求结果直接导致逐渐失去感受整个过程的条件和能力，将研究和学习压缩到流程的终点，而终点和起点之外的东西完全被忽视了。失去了过程则直接失去了真正学术能产生兴趣的源头，使得所做的一切事情至少在‘乐趣’层面失去了意义，而这或许是大多数研究的动力来源，和人在学术系统中坚持下去的动力来源。</p>
+<p>我觉得学术研究大概和学习写一段文字是类似的。照抄一段别人的文字不会提高自己的文笔，而获得一段从黑盒中吐出的文字也是一样，无论文字本身有多少附加的社会效用和其他作用，因为这总归不是自己创造的文字。Vibe Research即便取得再多成果，真正的不受人类指导和参与的研究过程也无更多价值，因为事实本来就存在，科研的价值在于人类去发现事实而不是去再次证明事实存在。</p>
+]]></content>
+      <categories>
+        <category>其他</category>
       </categories>
   </entry>
   <entry>
@@ -139,20 +153,6 @@
       <categories>
         <category>学术</category>
         <category>镜像对称性</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>为什么不应该做Vibe Research？</title>
-    <url>/2026/08/26/%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E5%BA%94%E8%AF%A5%E5%81%9AVibe%20Research%EF%BC%9F/</url>
-    <content><![CDATA[<p>3月23号，随着Schwartz的vibe physics放上anthropic的网站，agent工具第一次征服了学术流程。四到六月的Opus，GPT5，Fable，DSv4多个模型的发表又极大拓展了agent的能力。我几乎整个暑假都在尝试Vibe Research，结果是暑假没有任何成果不说，最终还愈发焦虑非常难受，感到无比虚无和对自己人生的质疑。直到今天我才意识到Vibe Research的危害，以及为什么我们不应该做Vibe Research。下面我会先说目前Vibe Research的缺陷和短板，再给出我们不该做Vibe Research的理由。</p>
-<p>Vibe Research顾名思义是仿照Vibe Coding来造的词，即某种许愿式、鼓励式依赖AI来完成工作的方法。但是，从源头上Coding和Research就有本质不同，软件开发是系统工程，一个工程师难以精通所有部分的技术；Coding几乎所有的价值都集中在成品软件或代码上，而实现手段只是必经的痛苦之路，因此用一个知识无比全面的工程师来黑盒完成所需的软件或代码是极其自然的想法，这就使得Vibe Coding是我们这个时代最有价值的事情之一。然而，同样的事情总会发生两次，第一次未必是悲剧，但第二次或许必然是闹剧。科研工作往往有一条连贯的主线，即便作者无法掌握所有细节，作者对主线也必须完全把握；科研的大量意义也存在于过程中，这些过程可能完全或大部分都不会在最终结论和论文里面体现，但这些过程依然作为难以被简单报告的成果而存在着。Vibe Research尝试在人类较少或几乎不干预的情况下让agent走出从出发到结果的主线，这就导致除了agent的上下文之外，世界上没有第二个知道全部细节和主线发展的研究者。考虑到上下文的快速衰减，导致即便到达了结果，整个研究流程也几乎难以完全回顾，这也是agent结果可读性较差的主要原因。</p>
-<p>Agent另一个特点是价值分析和成本收益分析能力很低，而且不像人类研究者可以在对一个项目较短时间的学习中获得这样的判断能力，这种低判断能力几乎贯穿agent工作的始终。导致agent经常进行大量对最终结果无实际推动的尝试，平白消耗本就不富余的上下文资源。这就导致所谓vibe research其实是agent这只无头苍蝇的几乎无计划的游走，尽管他确实可能可以取得一些结果，其中一部分甚至有相当的价值，但这样的结果无法被包括agent在内的任何人所真正理解，其研究过程也是几乎无参考性的。</p>
-<p>所以为什么我们不该做Vibe Research？我需要明确我所说的Vibe Research的概念，我特指的是只提供初始参考信息，并试图让agent在没有或较少人类指导的情况下到达希望的结论的这种行为。其实Schwartz最早所说的‘vibe research’并不满足这样的定义，他的研究是由人类进行高度参与的。但随后的一系列‘突破性’vibe成果让目前vibe research越来越接近上述许愿式定义，比如Jacobi猜想反例与S^6复结构例子，都是在几乎无人类干预的情况下得到的。</p>
-<p>Vibe Research最大的危害是难以让人真正了解过程中所需要的技术，这一方面导致形成不了在研究过程中判断方向的能力，一方面导致完全追求结果而失去了感受到科研乐趣的能力。前者导致的只是无法理解‘自己所做’的内容，做完一个项目或许知道了过程是怎么样的，但实际并没有提升自己操作这个过程的能力与重复类似过程的能力。后者完全摧毁了正常的学术兴趣观，因为进行研究的大量奖励本应集中在过程中的若干较小突破上，进行学习的大量奖励也在于逐步理解而非最终的学会。片面地追求结果直接导致逐渐失去感受整个过程的条件和能力，将研究和学习压缩到流程的终点，而终点和起点之外的东西完全被忽视了。失去了过程则直接失去了真正学术能产生兴趣的源头，使得所做的一切事情至少在‘乐趣’层面失去了意义，而这或许是大多数研究的动力来源，和人在学术系统中坚持下去的动力来源。</p>
-<p>我觉得学术研究大概和学习写一段文字是类似的。照抄一段别人的文字不会提高自己的文笔，而获得一段从黑盒中吐出的文字也是一样，无论文字本身有多少附加的社会效用和其他作用，因为这总归不是自己创造的文字。Vibe Research即便取得再多成果，真正的不受人类指导和参与的研究过程也无更多价值，因为事实本来就存在，科研的价值在于人类去发现事实而不是去再次证明事实存在。</p>
-]]></content>
-      <categories>
-        <category>其他</category>
       </categories>
   </entry>
 </search>
