@@ -11,24 +11,6 @@
       </categories>
   </entry>
   <entry>
-    <title>3d N=2 理论的SymTFT</title>
-    <url>/2026/09/11/3d%20N=2%20Holographic%20CFT%E7%9A%84SymTFT/</url>
-    <content><![CDATA[<p>之前从未接触过SymTFT，这次阅读了2210.03703，简要学习了M theory出发的SymTFT的构造和differential cohomology相关内容。<br><a href="/files/3d N=2 Holographic CFT的SymTFT/2210.03703.md" download>2210.03703</a></p>
-]]></content>
-      <categories>
-        <category>学术</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>A Short Note on Fortuity</title>
-    <url>/2026/09/29/A%20Short%20Note%20in/</url>
-    <content><![CDATA[<p>组会pdf，概括了一下Fortuity的内容并总结了目前的研究现状，由于是手写的可能有错误<br><a href="/files/A Short Note in/Short Note on Fortuity.pdf">点此下载这个文件捏</a></p>
-]]></content>
-      <categories>
-        <category>学术</category>
-      </categories>
-  </entry>
-  <entry>
     <title>A note on Batyrev&#39;s Mirror Construction</title>
     <url>/2025/10/30/Batyrev-Mirror-Construction/</url>
     <content><![CDATA[<p>在东南大学丘成桐中心的讨论班分享的有关Batyrev方法构造镜像对称性的note，比较简略而且可能有错误。<br><a href="/files/Batyrev-Mirror-Construction/Batyrev’s Construction of Mirror pairs.pdf">点此下载这个文件捏</a></p>
@@ -39,13 +21,12 @@
       </categories>
   </entry>
   <entry>
-    <title>Brane_Tiling笔记</title>
-    <url>/2026/02/12/Brane-Tiling%E7%AC%94%E8%AE%B0/</url>
-    <content><![CDATA[<p>一个关于Brane Tiling的笔记，照抄Yamazaki<br><a href="/files/Brane-Tiling笔记/Brane Tiling1.pdf">点此下载这个文件捏</a></p>
+    <title>3d N=2 理论的SymTFT</title>
+    <url>/2026/09/11/3d%20N=2%20Holographic%20CFT%E7%9A%84SymTFT/</url>
+    <content><![CDATA[<p>之前从未接触过SymTFT，这次阅读了2210.03703，简要学习了M theory出发的SymTFT的构造和differential cohomology相关内容。<br><a href="/files/3d N=2 Holographic CFT的SymTFT/2210.03703.md" download>2210.03703</a></p>
 ]]></content>
       <categories>
         <category>学术</category>
-        <category>拓扑弦理论</category>
       </categories>
   </entry>
   <entry>
@@ -59,9 +40,9 @@
       </categories>
   </entry>
   <entry>
-    <title>Note on Geometric Engineering and Topological Strings</title>
-    <url>/2026/04/13/Note-on-Geometric-Engineering-and-Topological-Strings/</url>
-    <content><![CDATA[<p>2026年春季在东南大学镜像对称性讨论班的ppt<br><a href="/files/Note-on-Geometric-Engineering-and-Topological-Strings/GETS.pdf">点此下载这个文件捏</a></p>
+    <title>Brane_Tiling笔记</title>
+    <url>/2026/02/12/Brane-Tiling%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<p>一个关于Brane Tiling的笔记，照抄Yamazaki<br><a href="/files/Brane-Tiling笔记/Brane Tiling1.pdf">点此下载这个文件捏</a></p>
 ]]></content>
       <categories>
         <category>学术</category>
@@ -76,6 +57,15 @@
       <categories>
         <category>学术</category>
         <category>超对称理论</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>Short Note on Fortuity</title>
+    <url>/2026/09/29/A%20Short%20Note%20in/</url>
+    <content><![CDATA[<p>组会pdf，概括了一下Fortuity的内容并总结了目前的研究现状，由于是手写的可能有错误<br><a href="/files/A Short Note in/Short Note on Fortuity.pdf">点此下载这个文件捏</a></p>
+]]></content>
+      <categories>
+        <category>学术</category>
       </categories>
   </entry>
   <entry>
@@ -98,6 +88,16 @@
       <categories>
         <category>学术</category>
         <category>量子引力</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>Note on Geometric Engineering and Topological Strings</title>
+    <url>/2026/04/13/Note-on-Geometric-Engineering-and-Topological-Strings/</url>
+    <content><![CDATA[<p>2026年春季在东南大学镜像对称性讨论班的ppt<br><a href="/files/Note-on-Geometric-Engineering-and-Topological-Strings/GETS.pdf">点此下载这个文件捏</a></p>
+]]></content>
+      <categories>
+        <category>学术</category>
+        <category>拓扑弦理论</category>
       </categories>
   </entry>
   <entry>
@@ -141,6 +141,25 @@
       </categories>
   </entry>
   <entry>
+    <title>两篇与ABJM有关文章的阅读笔记</title>
+    <url>/2026/09/17/%E4%B8%A4%E7%AF%87%E4%B8%8EABJM%E6%9C%89%E5%85%B3%E6%96%87%E7%AB%A0%E7%9A%84%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<p>2512是去年有关Fortuity计算的一篇，1003是早期推导了3d N&#x3D;4的相关duality，特别是ABJM和ADHM quiver理论的IR duality的文章。</p>
+<p><a href="/files/两篇与ABJM有关文章的阅读笔记/2512.23603.md" download>2512.23603</a><br><a href="/files/两篇与ABJM有关文章的阅读笔记/1003.5694.md" download>1003.5694</a></p>
+]]></content>
+      <categories>
+        <category>学术</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>之后尝试更新日常笔记</title>
+    <url>/2026/09/01/%E5%B0%9D%E8%AF%95%E6%9B%B4%E6%96%B0%E6%97%A5%E5%B8%B8%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<p>之后尝试发一点日常看文章或者上课记的笔记，可能会凑两三个发一次，每个都是非常短的。一方面是存个档，一方面是监督自己经常记点笔记。<br><a href="/files/尝试更新日常笔记/2608.04107.md" download>2608.04107.md</a><br><a href="/files/尝试更新日常笔记/0905.3415.md" download>0905.3415.md</a><br>这两篇一个是Aganagic之前有关M2膜的Chern-Simon matter从D2膜来的推导，一篇是Hosseini新的一篇有关twsited superpotential的精确表达式的文章，都读了一下并且记了大概内容。</p>
+]]></content>
+      <categories>
+        <category>学术</category>
+      </categories>
+  </entry>
+  <entry>
     <title>为什么不应该做Vibe Research？</title>
     <url>/2026/08/26/%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E5%BA%94%E8%AF%A5%E5%81%9AVibe%20Research%EF%BC%9F/</url>
     <content><![CDATA[<p>3月23号，随着Schwartz的vibe physics放上anthropic的网站，agent工具第一次征服了学术流程。四到六月的Opus，GPT5，Fable，DSv4多个模型的发表又极大拓展了agent的能力。我几乎整个暑假都在尝试Vibe Research，结果是暑假没有任何成果不说，最终还愈发焦虑非常难受，感到无比虚无和对自己人生的质疑。直到今天我才意识到Vibe Research的危害，以及为什么我们不应该做Vibe Research。下面我会先说目前Vibe Research的缺陷和短板，再给出我们不该做Vibe Research的理由。</p>
@@ -162,25 +181,6 @@
       <categories>
         <category>学术</category>
         <category>镜像对称性</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>之后尝试更新日常笔记</title>
-    <url>/2026/09/01/%E5%B0%9D%E8%AF%95%E6%9B%B4%E6%96%B0%E6%97%A5%E5%B8%B8%E7%AC%94%E8%AE%B0/</url>
-    <content><![CDATA[<p>之后尝试发一点日常看文章或者上课记的笔记，可能会凑两三个发一次，每个都是非常短的。一方面是存个档，一方面是监督自己经常记点笔记。<br><a href="/files/尝试更新日常笔记/2608.04107.md" download>2608.04107.md</a><br><a href="/files/尝试更新日常笔记/0905.3415.md" download>0905.3415.md</a><br>这两篇一个是Aganagic之前有关M2膜的Chern-Simon matter从D2膜来的推导，一篇是Hosseini新的一篇有关twsited superpotential的精确表达式的文章，都读了一下并且记了大概内容。</p>
-]]></content>
-      <categories>
-        <category>学术</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>两篇与ABJM有关文章的阅读笔记</title>
-    <url>/2026/09/17/%E4%B8%A4%E7%AF%87%E4%B8%8EABJM%E6%9C%89%E5%85%B3%E6%96%87%E7%AB%A0%E7%9A%84%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/</url>
-    <content><![CDATA[<p>2512是去年有关Fortuity计算的一篇，1003是早期推导了3d N&#x3D;4的相关duality，特别是ABJM和ADHM quiver理论的IR duality的文章。</p>
-<p><a href="/files/两篇与ABJM有关文章的阅读笔记/2512.23603.md" download>2512.23603</a><br><a href="/files/两篇与ABJM有关文章的阅读笔记/1003.5694.md" download>1003.5694</a></p>
-]]></content>
-      <categories>
-        <category>学术</category>
       </categories>
   </entry>
 </search>
