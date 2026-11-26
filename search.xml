@@ -1,16 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>2d N=(2,2)超对称与镜像对称性</title>
-    <url>/2025/10/30/2dn22%E8%B6%85%E5%AF%B9%E7%A7%B0%E4%B8%8E%E9%95%9C%E5%83%8F%E5%AF%B9%E7%A7%B0%E6%80%A7/</url>
-    <content><![CDATA[<p>2025春超对称理论大作业，仓促写完，基本抄书。<br><a href="/files/2dn22超对称与镜像对称性/2dN=(2,2)超对称与镜像对称性 PB22000007陈嘉莘.pdf">点此下载这个文件捏</a></p>
-]]></content>
-      <categories>
-        <category>学术</category>
-        <category>超对称理论</category>
-      </categories>
-  </entry>
-  <entry>
     <title>Short Note on Fortuity</title>
     <url>/2026/09/29/A%20Short%20Note%20in/</url>
     <content><![CDATA[<p>组会pdf，概括了一下Fortuity的内容并总结了目前的研究现状，由于是手写的可能有错误<br><a href="/files/A Short Note in/Short Note on Fortuity.pdf">点此下载这个文件捏</a></p>
@@ -20,23 +10,13 @@
       </categories>
   </entry>
   <entry>
-    <title>Brane_Tiling笔记</title>
-    <url>/2026/02/12/Brane-Tiling%E7%AC%94%E8%AE%B0/</url>
-    <content><![CDATA[<p>一个关于Brane Tiling的笔记，照抄Yamazaki<br><a href="/files/Brane-Tiling笔记/Brane Tiling1.pdf">点此下载这个文件捏</a></p>
+    <title>2d N=(2,2)超对称与镜像对称性</title>
+    <url>/2025/10/30/2dn22%E8%B6%85%E5%AF%B9%E7%A7%B0%E4%B8%8E%E9%95%9C%E5%83%8F%E5%AF%B9%E7%A7%B0%E6%80%A7/</url>
+    <content><![CDATA[<p>2025春超对称理论大作业，仓促写完，基本抄书。<br><a href="/files/2dn22超对称与镜像对称性/2dN=(2,2)超对称与镜像对称性 PB22000007陈嘉莘.pdf">点此下载这个文件捏</a></p>
 ]]></content>
       <categories>
         <category>学术</category>
-        <category>拓扑弦理论</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>Note on Holomorphic Anomaly Equation</title>
-    <url>/2025/11/28/HAE/</url>
-    <content><![CDATA[<p>一个关于Holomorphic Anomaly Equation的介绍<br><a href="/files/HAE/Note on Holomorphic Anomaly Equation.pdf">点此下载这个文件捏</a></p>
-]]></content>
-      <categories>
-        <category>学术</category>
-        <category>拓扑弦理论</category>
+        <category>超对称理论</category>
       </categories>
   </entry>
   <entry>
@@ -50,9 +30,9 @@
       </categories>
   </entry>
   <entry>
-    <title>A Note on Perturbative Topological String</title>
-    <url>/2025/10/30/Note-on-Perturbative-Topological-String/</url>
-    <content><![CDATA[<p>在学习Marino的Lecture时的Note，主要是微扰部分，没有非微扰部分。完成时间大概是2024年12月。<br><a href="/files/Note-on-Perturbative-Topological-String/perturbative topological string.pdf">点此下载这个文件捏</a></p>
+    <title>Brane_Tiling笔记</title>
+    <url>/2026/02/12/Brane-Tiling%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<p>一个关于Brane Tiling的笔记，照抄Yamazaki<br><a href="/files/Brane-Tiling笔记/Brane Tiling1.pdf">点此下载这个文件捏</a></p>
 ]]></content>
       <categories>
         <category>学术</category>
@@ -79,23 +59,23 @@
       </categories>
   </entry>
   <entry>
-    <title>A tiny note on BFSS and D0 brane</title>
-    <url>/2026/11/16/Tiny%20note%20on%20BFSS%20and%20D0%20brane/</url>
-    <content><![CDATA[<p>上周连续看到好几个有关这个主题的arxiv，很可能是OpenAI在10月初的结果的后续，我感觉BFSS挺有意思，因此稍微了解了一下。</p>
-<p><a href="/files/Tiny note on BFSS and D0 brane/Tiny note on BFSS and D0 brane.md" download>点此下载这个文件捏</a></p>
+    <title>Note on Holomorphic Anomaly Equation</title>
+    <url>/2025/11/28/HAE/</url>
+    <content><![CDATA[<p>一个关于Holomorphic Anomaly Equation的介绍<br><a href="/files/HAE/Note on Holomorphic Anomaly Equation.pdf">点此下载这个文件捏</a></p>
 ]]></content>
       <categories>
         <category>学术</category>
+        <category>拓扑弦理论</category>
       </categories>
   </entry>
   <entry>
-    <title>A short note on Class S theory</title>
-    <url>/2026/05/20/class-S-theory/</url>
-    <content><![CDATA[<p>2026年春季在东南大学讨论班的note，抄了2006.14025这篇review<br><a href="/files/class-S-theory/Note on Class S theory.pdf">点此下载这个文件捏</a></p>
+    <title>A Note on Perturbative Topological String</title>
+    <url>/2025/10/30/Note-on-Perturbative-Topological-String/</url>
+    <content><![CDATA[<p>在学习Marino的Lecture时的Note，主要是微扰部分，没有非微扰部分。完成时间大概是2024年12月。<br><a href="/files/Note-on-Perturbative-Topological-String/perturbative topological string.pdf">点此下载这个文件捏</a></p>
 ]]></content>
       <categories>
         <category>学术</category>
-        <category>超对称理论</category>
+        <category>拓扑弦理论</category>
       </categories>
   </entry>
   <entry>
@@ -109,6 +89,16 @@
       </categories>
   </entry>
   <entry>
+    <title>A tiny note on BFSS and D0 brane</title>
+    <url>/2026/11/16/Tiny%20note%20on%20BFSS%20and%20D0%20brane/</url>
+    <content><![CDATA[<p>上周连续看到好几个有关这个主题的arxiv，很可能是OpenAI在10月初的结果的后续，我感觉BFSS挺有意思，因此稍微了解了一下。</p>
+<p><a href="/files/Tiny note on BFSS and D0 brane/Tiny note on BFSS and D0 brane.md" download>点此下载这个文件捏</a></p>
+]]></content>
+      <categories>
+        <category>学术</category>
+      </categories>
+  </entry>
+  <entry>
     <title>A brief note on QFT compactification</title>
     <url>/2025/10/30/compactification-note/</url>
     <content><![CDATA[<p>2025春量子场论的大作业，写的也十分简陋。由于一直对紧致化比较希望学习因此写这个主题，但似乎写完也还是没有什么了解。之后还是得看一下相关的书系统学一下。<br><a href="/files/compactification-note/Classical and Quantum aspects of Field theory compactification.pdf">点此下载这个文件捏</a></p>
@@ -116,6 +106,16 @@
       <categories>
         <category>学术</category>
         <category>量子场论</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>A short note on Class S theory</title>
+    <url>/2026/05/20/class-S-theory/</url>
+    <content><![CDATA[<p>2026年春季在东南大学讨论班的note，抄了2006.14025这篇review<br><a href="/files/class-S-theory/Note on Class S theory.pdf">点此下载这个文件捏</a></p>
+]]></content>
+      <categories>
+        <category>学术</category>
+        <category>超对称理论</category>
       </categories>
   </entry>
   <entry>
@@ -150,16 +150,6 @@
       </categories>
   </entry>
   <entry>
-    <title>三篇ABJM有关文章的阅读笔记</title>
-    <url>/2026/09/04/%E4%B8%89%E7%AF%87ABJM%E6%9C%89%E5%85%B3%E6%96%87%E7%AB%A0%E7%9A%84%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/</url>
-    <content><![CDATA[<p>读了三篇ABJM相关的文章。1511.04085这一篇计算的是large N twisted Index，并且成功匹配了一类系统的黑洞熵。2607.07255这一篇从M theory出发推导了ABJM grand potential中的cubic和linear term的起源。1211.1251这一篇是最早研究ABJM Instanton的文章，得到了有关WS和M2 Instanton的初步结论。</p>
-<p>我整体还是比较喜欢ABJM模型的，可以某种程度上让我们理解一点M理论（M2 brane），同时整体也没有复杂的计算。我觉得那些喜欢4d N&#x3D;4 SYM的人喜欢的原因也差不多吧（虽然我不太了解这个模型）。但是ABJM确实不是非常困难的模型，重要的工作已经全被做完了，之后还是得看一看其他的。<br><a href="/files/三篇ABJM有关文章的阅读笔记/2607.07255.md" download>2607.07255</a><br><a href="/files/三篇ABJM有关文章的阅读笔记/1511.04085.md" download>1511.04085</a><br><a href="/files/三篇ABJM有关文章的阅读笔记/1211.1251.md" download>1211.1251</a></p>
-]]></content>
-      <categories>
-        <category>学术</category>
-      </categories>
-  </entry>
-  <entry>
     <title>两篇ABJM有关文章的阅读笔记</title>
     <url>/2026/09/17/%E4%B8%A4%E7%AF%87%E4%B8%8EABJM%E6%9C%89%E5%85%B3%E6%96%87%E7%AB%A0%E7%9A%84%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/</url>
     <content><![CDATA[<p>2512是去年有关Fortuity计算的一篇，1003是早期推导了3d N&#x3D;4的相关duality，特别是ABJM和ADHM quiver理论的IR duality的文章。</p>
@@ -179,9 +169,10 @@
       </categories>
   </entry>
   <entry>
-    <title>之后尝试更新日常笔记</title>
-    <url>/2026/09/01/%E5%B0%9D%E8%AF%95%E6%9B%B4%E6%96%B0%E6%97%A5%E5%B8%B8%E7%AC%94%E8%AE%B0/</url>
-    <content><![CDATA[<p>之后尝试发一点日常看文章或者上课记的笔记，可能会凑两三个发一次，每个都是非常短的。一方面是存个档，一方面是监督自己经常记点笔记。<br><a href="/files/尝试更新日常笔记/2608.04107.md" download>2608.04107.md</a><br><a href="/files/尝试更新日常笔记/0905.3415.md" download>0905.3415.md</a><br>这两篇一个是Aganagic之前有关M2膜的Chern-Simon matter从D2膜来的推导，一篇是Hosseini新的一篇有关twsited superpotential的精确表达式的文章，都读了一下并且记了大概内容。</p>
+    <title>三篇ABJM有关文章的阅读笔记</title>
+    <url>/2026/09/04/%E4%B8%89%E7%AF%87ABJM%E6%9C%89%E5%85%B3%E6%96%87%E7%AB%A0%E7%9A%84%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<p>读了三篇ABJM相关的文章。1511.04085这一篇计算的是large N twisted Index，并且成功匹配了一类系统的黑洞熵。2607.07255这一篇从M theory出发推导了ABJM grand potential中的cubic和linear term的起源。1211.1251这一篇是最早研究ABJM Instanton的文章，得到了有关WS和M2 Instanton的初步结论。</p>
+<p>我整体还是比较喜欢ABJM模型的，可以某种程度上让我们理解一点M理论（M2 brane），同时整体也没有复杂的计算。我觉得那些喜欢4d N&#x3D;4 SYM的人喜欢的原因也差不多吧（虽然我不太了解这个模型）。但是ABJM确实不是非常困难的模型，重要的工作已经全被做完了，之后还是得看一看其他的。<br><a href="/files/三篇ABJM有关文章的阅读笔记/2607.07255.md" download>2607.07255</a><br><a href="/files/三篇ABJM有关文章的阅读笔记/1511.04085.md" download>1511.04085</a><br><a href="/files/三篇ABJM有关文章的阅读笔记/1211.1251.md" download>1211.1251</a></p>
 ]]></content>
       <categories>
         <category>学术</category>
@@ -199,9 +190,9 @@
       </categories>
   </entry>
   <entry>
-    <title>阅读笔记：短文《Topological phases and quantum  computation》</title>
-    <url>/2026/11/21/%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0%EF%BC%9A%E7%9F%AD%E6%96%87%E3%80%8ATopological%20phases%20and%20quantum%20%20computation%E3%80%8B/</url>
-    <content><![CDATA[<p>是Kitaev和Laumann之前的一个非常短的anyons入门，讲了Lattice model和Honeycomb model，nonAbelian anyons感觉完全没有仔细讲。可能需要之后再阅读更多相关资料。<br><a href="/files/阅读笔记：短文《Topological phases and quantum  computation》/Topological phases and quantum computation.md" download>点此下载这个文件捏</a></p>
+    <title>之后尝试更新日常笔记</title>
+    <url>/2026/09/01/%E5%B0%9D%E8%AF%95%E6%9B%B4%E6%96%B0%E6%97%A5%E5%B8%B8%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<p>之后尝试发一点日常看文章或者上课记的笔记，可能会凑两三个发一次，每个都是非常短的。一方面是存个档，一方面是监督自己经常记点笔记。<br><a href="/files/尝试更新日常笔记/2608.04107.md" download>2608.04107.md</a><br><a href="/files/尝试更新日常笔记/0905.3415.md" download>0905.3415.md</a><br>这两篇一个是Aganagic之前有关M2膜的Chern-Simon matter从D2膜来的推导，一篇是Hosseini新的一篇有关twsited superpotential的精确表达式的文章，都读了一下并且记了大概内容。</p>
 ]]></content>
       <categories>
         <category>学术</category>
@@ -229,6 +220,24 @@
 ]]></content>
       <categories>
         <category>其他</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>阅读笔记：短文《Topological phases and quantum  computation》</title>
+    <url>/2026/11/21/%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0%EF%BC%9A%E7%9F%AD%E6%96%87%E3%80%8ATopological%20phases%20and%20quantum%20%20computation%E3%80%8B/</url>
+    <content><![CDATA[<p>是Kitaev和Laumann之前的一个非常短的anyons入门，讲了Lattice model和Honeycomb model，nonAbelian anyons感觉完全没有仔细讲。可能需要之后再阅读更多相关资料。<br><a href="/files/阅读笔记：短文《Topological phases and quantum  computation》/Topological phases and quantum computation.md" download>点此下载这个文件捏</a></p>
+]]></content>
+      <categories>
+        <category>学术</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>有关Chiral Chern-Simons matter</title>
+    <url>/2026/11/26/%E6%9C%89%E5%85%B3Chiral%20Chern-Simons%20matter/</url>
+    <content><![CDATA[<p>前天看到张老师这篇，今天急忙读完写的笔记，这个文章回答了我一直以来很多疑惑。</p>
+]]></content>
+      <categories>
+        <category>学术</category>
       </categories>
   </entry>
 </search>
