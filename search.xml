@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Short Note on Fortuity</title>
-    <url>/2026/09/29/A%20Short%20Note%20in/</url>
-    <content><![CDATA[<p>组会pdf，概括了一下Fortuity的内容并总结了目前的研究现状，由于是手写的可能有错误<br><a href="/files/A Short Note in/Short Note on Fortuity.pdf">点此下载这个文件捏</a></p>
-]]></content>
-      <categories>
-        <category>学术</category>
-      </categories>
-  </entry>
-  <entry>
     <title>2d N=(2,2)超对称与镜像对称性</title>
     <url>/2025/10/30/2dn22%E8%B6%85%E5%AF%B9%E7%A7%B0%E4%B8%8E%E9%95%9C%E5%83%8F%E5%AF%B9%E7%A7%B0%E6%80%A7/</url>
     <content><![CDATA[<p>2025春超对称理论大作业，仓促写完，基本抄书。<br><a href="/files/2dn22超对称与镜像对称性/2dN=(2,2)超对称与镜像对称性 PB22000007陈嘉莘.pdf">点此下载这个文件捏</a></p>
@@ -17,6 +8,24 @@
       <categories>
         <category>学术</category>
         <category>超对称理论</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>3d N=2 理论的SymTFT</title>
+    <url>/2026/09/11/3d%20N=2%20Holographic%20CFT%E7%9A%84SymTFT/</url>
+    <content><![CDATA[<p>之前从未接触过SymTFT，这次阅读了2210.03703，简要学习了M theory出发的SymTFT的构造和differential cohomology相关内容。<br><a href="/files/3d N=2 Holographic CFT的SymTFT/2210.03703.md" download>2210.03703</a></p>
+]]></content>
+      <categories>
+        <category>学术</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>Short Note on Fortuity</title>
+    <url>/2026/09/29/A%20Short%20Note%20in/</url>
+    <content><![CDATA[<p>组会pdf，概括了一下Fortuity的内容并总结了目前的研究现状，由于是手写的可能有错误<br><a href="/files/A Short Note in/Short Note on Fortuity.pdf">点此下载这个文件捏</a></p>
+]]></content>
+      <categories>
+        <category>学术</category>
       </categories>
   </entry>
   <entry>
@@ -30,35 +39,6 @@
       </categories>
   </entry>
   <entry>
-    <title>Brane_Tiling笔记</title>
-    <url>/2026/02/12/Brane-Tiling%E7%AC%94%E8%AE%B0/</url>
-    <content><![CDATA[<p>一个关于Brane Tiling的笔记，照抄Yamazaki<br><a href="/files/Brane-Tiling笔记/Brane Tiling1.pdf">点此下载这个文件捏</a></p>
-]]></content>
-      <categories>
-        <category>学术</category>
-        <category>拓扑弦理论</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>3d N=2 理论的SymTFT</title>
-    <url>/2026/09/11/3d%20N=2%20Holographic%20CFT%E7%9A%84SymTFT/</url>
-    <content><![CDATA[<p>之前从未接触过SymTFT，这次阅读了2210.03703，简要学习了M theory出发的SymTFT的构造和differential cohomology相关内容。<br><a href="/files/3d N=2 Holographic CFT的SymTFT/2210.03703.md" download>2210.03703</a></p>
-]]></content>
-      <categories>
-        <category>学术</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>Note on Geometric Engineering and Topological Strings</title>
-    <url>/2026/04/13/Note-on-Geometric-Engineering-and-Topological-Strings/</url>
-    <content><![CDATA[<p>2026年春季在东南大学镜像对称性讨论班的ppt<br><a href="/files/Note-on-Geometric-Engineering-and-Topological-Strings/GETS.pdf">点此下载这个文件捏</a></p>
-]]></content>
-      <categories>
-        <category>学术</category>
-        <category>拓扑弦理论</category>
-      </categories>
-  </entry>
-  <entry>
     <title>Note on Holomorphic Anomaly Equation</title>
     <url>/2025/11/28/HAE/</url>
     <content><![CDATA[<p>一个关于Holomorphic Anomaly Equation的介绍<br><a href="/files/HAE/Note on Holomorphic Anomaly Equation.pdf">点此下载这个文件捏</a></p>
@@ -69,9 +49,9 @@
       </categories>
   </entry>
   <entry>
-    <title>A Note on Perturbative Topological String</title>
-    <url>/2025/10/30/Note-on-Perturbative-Topological-String/</url>
-    <content><![CDATA[<p>在学习Marino的Lecture时的Note，主要是微扰部分，没有非微扰部分。完成时间大概是2024年12月。<br><a href="/files/Note-on-Perturbative-Topological-String/perturbative topological string.pdf">点此下载这个文件捏</a></p>
+    <title>Note on Geometric Engineering and Topological Strings</title>
+    <url>/2026/04/13/Note-on-Geometric-Engineering-and-Topological-Strings/</url>
+    <content><![CDATA[<p>2026年春季在东南大学镜像对称性讨论班的ppt<br><a href="/files/Note-on-Geometric-Engineering-and-Topological-Strings/GETS.pdf">点此下载这个文件捏</a></p>
 ]]></content>
       <categories>
         <category>学术</category>
@@ -86,6 +66,38 @@
       <categories>
         <category>学术</category>
         <category>超对称理论</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>A Note on Perturbative Topological String</title>
+    <url>/2025/10/30/Note-on-Perturbative-Topological-String/</url>
+    <content><![CDATA[<p>在学习Marino的Lecture时的Note，主要是微扰部分，没有非微扰部分。完成时间大概是2024年12月。<br><a href="/files/Note-on-Perturbative-Topological-String/perturbative topological string.pdf">点此下载这个文件捏</a></p>
+]]></content>
+      <categories>
+        <category>学术</category>
+        <category>拓扑弦理论</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>Brane_Tiling笔记</title>
+    <url>/2026/02/12/Brane-Tiling%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<p>一个关于Brane Tiling的笔记，照抄Yamazaki<br><a href="/files/Brane-Tiling笔记/Brane Tiling1.pdf">点此下载这个文件捏</a></p>
+]]></content>
+      <categories>
+        <category>学术</category>
+        <category>拓扑弦理论</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>Handbook of Quantum Gravity全书中文机翻</title>
+    <url>/2026/05/20/Translation-Handbook-QG/</url>
+    <content><![CDATA[<p>Handbook of Quantum Gravity这本书卷帙浩繁，比较适合闲暇时候学习一些不了解的方向。我个人感觉读中文比英语略快一些，因此用ai做了这个中文机翻（同时保留英文以对照）。美中不足的一点是忘记告诉ai不翻译人名了。专有名词我感觉大部分翻译没有问题。大概是可以凑合看的水平。</p>
+<p>同时我非常贴心的给全书96个章节分节处理了</p>
+<p><a href="/files/Translation-Handbook-QG/Handbook of Quantum Gravity.zip">点此下载这个文件捏</a></p>
+]]></content>
+      <categories>
+        <category>学术</category>
+        <category>量子引力</category>
       </categories>
   </entry>
   <entry>
@@ -109,28 +121,6 @@
       </categories>
   </entry>
   <entry>
-    <title>A short note on Class S theory</title>
-    <url>/2026/05/20/class-S-theory/</url>
-    <content><![CDATA[<p>2026年春季在东南大学讨论班的note，抄了2006.14025这篇review<br><a href="/files/class-S-theory/Note on Class S theory.pdf">点此下载这个文件捏</a></p>
-]]></content>
-      <categories>
-        <category>学术</category>
-        <category>超对称理论</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>Handbook of Quantum Gravity全书中文机翻</title>
-    <url>/2026/05/20/Translation-Handbook-QG/</url>
-    <content><![CDATA[<p>Handbook of Quantum Gravity这本书卷帙浩繁，比较适合闲暇时候学习一些不了解的方向。我个人感觉读中文比英语略快一些，因此用ai做了这个中文机翻（同时保留英文以对照）。美中不足的一点是忘记告诉ai不翻译人名了。专有名词我感觉大部分翻译没有问题。大概是可以凑合看的水平。</p>
-<p>同时我非常贴心的给全书96个章节分节处理了</p>
-<p><a href="/files/Translation-Handbook-QG/Handbook of Quantum Gravity.zip">点此下载这个文件捏</a></p>
-]]></content>
-      <categories>
-        <category>学术</category>
-        <category>量子引力</category>
-      </categories>
-  </entry>
-  <entry>
     <title>一个关于镜像对称性的简介PPT</title>
     <url>/2025/10/30/%E4%B8%80%E4%B8%AA%E5%85%B3%E4%BA%8E%E9%95%9C%E5%83%8F%E5%AF%B9%E7%A7%B0%E6%80%A7%E7%9A%84%E7%AE%80%E4%BB%8BPPT/</url>
     <content><![CDATA[<p>毕业论文的开题答辩PPT，主题是镜像对称性的理论和应用，由于答辩时间很短所以PPT内容也不多。<br><a href="/files/一个关于镜像对称性的简介PPT/陈嘉莘开题答辩ppt1031.pdf">点此下载这个文件捏</a></p>
@@ -141,9 +131,38 @@
       </categories>
   </entry>
   <entry>
+    <title>A short note on Class S theory</title>
+    <url>/2026/05/20/class-S-theory/</url>
+    <content><![CDATA[<p>2026年春季在东南大学讨论班的note，抄了2006.14025这篇review<br><a href="/files/class-S-theory/Note on Class S theory.pdf">点此下载这个文件捏</a></p>
+]]></content>
+      <categories>
+        <category>学术</category>
+        <category>超对称理论</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>三篇ABJM有关文章的阅读笔记</title>
+    <url>/2026/09/04/%E4%B8%89%E7%AF%87ABJM%E6%9C%89%E5%85%B3%E6%96%87%E7%AB%A0%E7%9A%84%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<p>读了三篇ABJM相关的文章。1511.04085这一篇计算的是large N twisted Index，并且成功匹配了一类系统的黑洞熵。2607.07255这一篇从M theory出发推导了ABJM grand potential中的cubic和linear term的起源。1211.1251这一篇是最早研究ABJM Instanton的文章，得到了有关WS和M2 Instanton的初步结论。</p>
+<p>我整体还是比较喜欢ABJM模型的，可以某种程度上让我们理解一点M理论（M2 brane），同时整体也没有复杂的计算。我觉得那些喜欢4d N&#x3D;4 SYM的人喜欢的原因也差不多吧（虽然我不太了解这个模型）。但是ABJM确实不是非常困难的模型，重要的工作已经全被做完了，之后还是得看一看其他的。<br><a href="/files/三篇ABJM有关文章的阅读笔记/2607.07255.md" download>2607.07255</a><br><a href="/files/三篇ABJM有关文章的阅读笔记/1511.04085.md" download>1511.04085</a><br><a href="/files/三篇ABJM有关文章的阅读笔记/1211.1251.md" download>1211.1251</a></p>
+]]></content>
+      <categories>
+        <category>学术</category>
+      </categories>
+  </entry>
+  <entry>
     <title>两篇Fortuitous Lifting有关文章的阅读笔记</title>
     <url>/2026/11/17/%E4%B8%A4%E7%AF%87Fortuitous%20Lifting%E6%9C%89%E5%85%B3%E6%96%87%E7%AB%A0%E7%9A%84%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/</url>
     <content><![CDATA[<p>均研究了N&#x3D;4 SYM里面Fortuitous算符在考虑1-loop之后是否会被lift这个问题。<br><a href="/files/两篇Fortuitous Lifting有关文章的阅读笔记/2606.27955.md" download>2606.27955</a><br><a href="/files/两篇Fortuitous Lifting有关文章的阅读笔记/2511.09519.md" download>2511.09519</a></p>
+]]></content>
+      <categories>
+        <category>学术</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>两篇Fortuity有关文章的阅读笔记</title>
+    <url>/2026/10/25/%E4%B8%A4%E7%AF%87%E4%B8%8EFortuity%E6%9C%89%E5%85%B3%E6%96%87%E7%AB%A0%E7%9A%84%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<p>最近有点摆烂和迷茫了，感觉这些文章很难对在进行的研究有什么启发，但还是看一下。<br><a href="/files/两篇与Fortuity有关文章的阅读笔记/2412.08695.md" download>2412.08695.md</a><br><a href="/files/两篇与Fortuity有关文章的阅读笔记/2610.07135.md" download>2610.07135.md</a></p>
 ]]></content>
       <categories>
         <category>学术</category>
@@ -160,19 +179,9 @@
       </categories>
   </entry>
   <entry>
-    <title>两篇Fortuity有关文章的阅读笔记</title>
-    <url>/2026/10/25/%E4%B8%A4%E7%AF%87%E4%B8%8EFortuity%E6%9C%89%E5%85%B3%E6%96%87%E7%AB%A0%E7%9A%84%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/</url>
-    <content><![CDATA[<p>最近有点摆烂和迷茫了，感觉这些文章很难对在进行的研究有什么启发，但还是看一下。<br><a href="/files/两篇与Fortuity有关文章的阅读笔记/2412.08695.md" download>2412.08695.md</a><br><a href="/files/两篇与Fortuity有关文章的阅读笔记/2610.07135.md" download>2610.07135.md</a></p>
-]]></content>
-      <categories>
-        <category>学术</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>三篇ABJM有关文章的阅读笔记</title>
-    <url>/2026/09/04/%E4%B8%89%E7%AF%87ABJM%E6%9C%89%E5%85%B3%E6%96%87%E7%AB%A0%E7%9A%84%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/</url>
-    <content><![CDATA[<p>读了三篇ABJM相关的文章。1511.04085这一篇计算的是large N twisted Index，并且成功匹配了一类系统的黑洞熵。2607.07255这一篇从M theory出发推导了ABJM grand potential中的cubic和linear term的起源。1211.1251这一篇是最早研究ABJM Instanton的文章，得到了有关WS和M2 Instanton的初步结论。</p>
-<p>我整体还是比较喜欢ABJM模型的，可以某种程度上让我们理解一点M理论（M2 brane），同时整体也没有复杂的计算。我觉得那些喜欢4d N&#x3D;4 SYM的人喜欢的原因也差不多吧（虽然我不太了解这个模型）。但是ABJM确实不是非常困难的模型，重要的工作已经全被做完了，之后还是得看一看其他的。<br><a href="/files/三篇ABJM有关文章的阅读笔记/2607.07255.md" download>2607.07255</a><br><a href="/files/三篇ABJM有关文章的阅读笔记/1511.04085.md" download>1511.04085</a><br><a href="/files/三篇ABJM有关文章的阅读笔记/1211.1251.md" download>1211.1251</a></p>
+    <title>之后尝试更新日常笔记</title>
+    <url>/2026/09/01/%E5%B0%9D%E8%AF%95%E6%9B%B4%E6%96%B0%E6%97%A5%E5%B8%B8%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<p>之后尝试发一点日常看文章或者上课记的笔记，可能会凑两三个发一次，每个都是非常短的。一方面是存个档，一方面是监督自己经常记点笔记。<br><a href="/files/尝试更新日常笔记/2608.04107.md" download>2608.04107.md</a><br><a href="/files/尝试更新日常笔记/0905.3415.md" download>0905.3415.md</a><br>这两篇一个是Aganagic之前有关M2膜的Chern-Simon matter从D2膜来的推导，一篇是Hosseini新的一篇有关twsited superpotential的精确表达式的文章，都读了一下并且记了大概内容。</p>
 ]]></content>
       <categories>
         <category>学术</category>
@@ -190,15 +199,6 @@
       </categories>
   </entry>
   <entry>
-    <title>之后尝试更新日常笔记</title>
-    <url>/2026/09/01/%E5%B0%9D%E8%AF%95%E6%9B%B4%E6%96%B0%E6%97%A5%E5%B8%B8%E7%AC%94%E8%AE%B0/</url>
-    <content><![CDATA[<p>之后尝试发一点日常看文章或者上课记的笔记，可能会凑两三个发一次，每个都是非常短的。一方面是存个档，一方面是监督自己经常记点笔记。<br><a href="/files/尝试更新日常笔记/2608.04107.md" download>2608.04107.md</a><br><a href="/files/尝试更新日常笔记/0905.3415.md" download>0905.3415.md</a><br>这两篇一个是Aganagic之前有关M2膜的Chern-Simon matter从D2膜来的推导，一篇是Hosseini新的一篇有关twsited superpotential的精确表达式的文章，都读了一下并且记了大概内容。</p>
-]]></content>
-      <categories>
-        <category>学术</category>
-      </categories>
-  </entry>
-  <entry>
     <title>毕业论文稿</title>
     <url>/2026/04/16/%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0-%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87%E7%A8%BF/</url>
     <content><![CDATA[<p>毕业论文稿，有关镜像对称性的一些笔记，错误可能较多。<br><a href="/files/持续更新-毕业论文稿/main.pdf">点此下载这个文件捏</a></p>
@@ -206,6 +206,24 @@
       <categories>
         <category>学术</category>
         <category>镜像对称性</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>有关Chiral Chern-Simons matter</title>
+    <url>/2026/11/27/%E6%9C%89%E5%85%B3Chiral%20Chern-Simons%20matter/</url>
+    <content><![CDATA[<p>前天看到张老师这篇，今天急忙读完写的笔记，这个文章回答了我一直以来很多疑惑。<br><a href="/files/有关Chiral Chern-Simons matter/2611.28594.md" download>2611.28594</a></p>
+]]></content>
+      <categories>
+        <category>学术</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>阅读笔记：短文《Topological phases and quantum  computation》</title>
+    <url>/2026/11/21/%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0%EF%BC%9A%E7%9F%AD%E6%96%87%E3%80%8ATopological%20phases%20and%20quantum%20%20computation%E3%80%8B/</url>
+    <content><![CDATA[<p>是Kitaev和Laumann之前的一个非常短的anyons入门，讲了Lattice model和Honeycomb model，nonAbelian anyons感觉完全没有仔细讲。可能需要之后再阅读更多相关资料。<br><a href="/files/阅读笔记：短文《Topological phases and quantum  computation》/Topological phases and quantum computation.md" download>点此下载这个文件捏</a></p>
+]]></content>
+      <categories>
+        <category>学术</category>
       </categories>
   </entry>
   <entry>
@@ -220,24 +238,6 @@
 ]]></content>
       <categories>
         <category>其他</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>阅读笔记：短文《Topological phases and quantum  computation》</title>
-    <url>/2026/11/21/%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0%EF%BC%9A%E7%9F%AD%E6%96%87%E3%80%8ATopological%20phases%20and%20quantum%20%20computation%E3%80%8B/</url>
-    <content><![CDATA[<p>是Kitaev和Laumann之前的一个非常短的anyons入门，讲了Lattice model和Honeycomb model，nonAbelian anyons感觉完全没有仔细讲。可能需要之后再阅读更多相关资料。<br><a href="/files/阅读笔记：短文《Topological phases and quantum  computation》/Topological phases and quantum computation.md" download>点此下载这个文件捏</a></p>
-]]></content>
-      <categories>
-        <category>学术</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>有关Chiral Chern-Simons matter</title>
-    <url>/2026/11/26/%E6%9C%89%E5%85%B3Chiral%20Chern-Simons%20matter/</url>
-    <content><![CDATA[<p>前天看到张老师这篇，今天急忙读完写的笔记，这个文章回答了我一直以来很多疑惑。</p>
-]]></content>
-      <categories>
-        <category>学术</category>
       </categories>
   </entry>
 </search>
